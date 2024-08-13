@@ -1,0 +1,35 @@
+<form method='POST' action='user-create'>
+    <div class='form_content'>
+      <div class='form_field'>
+        <label for='email' class='form_label'>Email адреса:</label>
+        <input
+          type='login'
+          name='email'
+          class='form_input'
+        />
+      </div>
+      <div class='form_field'>
+        <label
+          for='email'
+          class='form_label'
+        >Нікнейм:</label>
+        <input
+          type='login'
+          name='email'
+          class='form_input'
+        />
+      </div>
+      <div class='form_field'>
+        <label
+          for='email'
+          class='form_label'
+        >Пароль:</label>
+        <input
+          type='login'
+          name='email'
+          class='form_input'
+        />
+      </div>
+      <button class='form_button'>Створити</button>
+    </div>
+  </form>
